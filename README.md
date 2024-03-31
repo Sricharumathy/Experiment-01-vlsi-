@@ -1,4 +1,4 @@
-# HDL-Programming
+# VLSI LAB EXPERIMENT 01
 ## SIMULATION AND IMPLEMENTATION OF LOGIC GATES ANd 4 BIT ADDER & SUBTRACTOR 
 ### AIM:
 To simulate and synthesis Logic Gates, Adders and Subtractor using VIVADO
